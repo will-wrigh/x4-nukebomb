@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
     <add sel="//stocks/stock[@id='default_trader']">
-        <ware ref="bomb_player_ limpet_nuke_01_mk1" min="1" max="1" chance="100" />
+        <ware ref="bomb_player_limpet_nuke_01_mk2" min="1" max="1" chance="100" />
     </add>
 </diff>
 

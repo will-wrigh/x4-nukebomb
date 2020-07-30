@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Matthias (192.168.3.104) at 10.10.2018_17-10-27-->
 <macros>
-  <macro name="bomb_player_limpet_nuke_01_mk1_macro" class="bomb">
-    <component ref="bomb_player_limpet_nuke_01_mk1" />
+  <macro name="bomb_player_limpet_nuke_01_mk2_macro" class="bomb">
+    <component ref="bomb_player_limpet_nuke_01_mk2" />
     <properties>
       <identification name="{20201,12201}" description="{20201,12202}" />
       <ammunition value="1" reload="2" />
@@ -22,7 +22,7 @@
     </properties>
     <connections>
       <connection ref="Connection_engine01">
-        <macro ref="engine_limpet_mine_01_mk1_macro" connection="Connection" />
+        <macro ref="engine_limpet_mine_01_mk2_macro" connection="Connection" />
       </connection>
     </connections>
   </macro>
