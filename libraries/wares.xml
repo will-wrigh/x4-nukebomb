@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
 	<add sel="//wares">
-		<ware id="bomb_player_limpet_nuke_01_mk2" name="{20201,12201}" description="{20201,12202}" transport="inventory" volume="1" tags="bomb crafting inventory personalupgrade">
+		<ware id="bomb_player_limpet_nuke_01_mk2" name="Nuke Bomb" description="Stand back." transport="inventory" volume="1" tags="bomb crafting inventory personalupgrade">
     <price min="850000" average="900000" max="1000000" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
+    <production time="10" amount="1" method="default" name="Nuke">
       <primary>
         <ware ware="inv_remotedetonator" amount="1" />
         <ware ware="inv_securecontainer" amount="1" />
