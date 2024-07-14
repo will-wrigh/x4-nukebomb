@@ -2,7 +2,7 @@
 <diff>
 	<add sel="//wares">
 		<ware id="bomb_player_limpet_nuke_01_mk2" name="Nuke Bomb" description="Stand back." transport="inventory" volume="1" tags="bomb crafting inventory personalupgrade">
-    <price min="400000" average="750000" max="1000000" />
+    <price min="400000" average="750000" max="1500000" />
     <production time="10" amount="1" method="default" name="Nuke">
       <primary>
         <ware ware="inv_remotedetonator" amount="1" />

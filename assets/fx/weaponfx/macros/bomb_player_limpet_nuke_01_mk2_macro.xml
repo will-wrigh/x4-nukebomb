@@ -7,7 +7,7 @@
       <identification name="{20201,12201}" description="{20201,12202}" />
       <ammunition value="1" reload="2" />
       <missile lifetime="108" range="48000" icon="weapon_bomb_mk1" />
-      <explosiondamage hull="167000" />
+      <explosiondamage hull="750000" />
       <reload />
       <hull max="100" />
       <effects>
